@@ -1,0 +1,15 @@
+{
+    "name": "ncut/lara_0804_p",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\Lara0804P\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlanKai",
+            "email": "3a832094@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
